@@ -25,6 +25,7 @@ const eslintrc = {
     'import/extensions': 0,
     'import/no-unresolved': 0,
     'import/no-extraneous-dependencies': 0,
+    'linebreak-style': [0, 'error', 'windows'],
     'prefer-destructuring': 0,
     'no-param-reassign': 0,
     'no-return-assign': 0,
